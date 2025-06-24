@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 80px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2B3844;
+    color: white;
+
+}
+input{
+    width: 500px;   
+    height: 56px;
+    margin-top: 20px;
+    background-color: #2B3844;
+    color: white;
+}
+img{
+    width: 264px;
+    height: 160px;
+    padding: 1px;
+}
+
+.box2{
+width: 264px;
+    height: 200px;
+    background-color: #2B3844;
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: space-around   ;
+    align-items: center;
+    flex-wrap: wrap;
+}
